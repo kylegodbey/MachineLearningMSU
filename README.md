@@ -1,4 +1,5 @@
-# Welcome to the Summer School on Machine Learning applied to Nuclear Physics, May 20-23, 2019, organized by the Facility of Rare Isotope Beams theory alliance (FRIB-TA).
+# Fork of the Summer School on Machine Learning applied to Nuclear Physics repository
+### Held May 20-23, 2019, organized by the Facility of Rare Isotope Beams theory alliance (FRIB-TA).
 
 ### Venue: Facility of Rare Isotope Beams and National Superconducting Cyclotron Laboratory, 640 S. Shaw Lane, Michigan State University, East Lansing, 48824 Michigan
 
